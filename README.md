@@ -5,7 +5,7 @@
   ### AI/ML Engineer | Generative AI & Agentic AI Systems
   *Production-ready AI pipelines, multi-provider LLM orchestration, and intelligent automation.*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:rishabhshukla2901@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-shukla-a8333639b/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhshukla2901@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fumer057)
 
@@ -88,9 +88,9 @@
 
 | Project | Technologies | Summary |
 | :--- | :--- | :--- |
-| **AI Automation & Content Orchestration Platform** | `Python` `FastAPI` `LiteLLM` `Playwright` `Pydantic` | Multi-stage AI workflow orchestration engine coordinating planning, generation, validation, rendering, and publishing with automated failover and JSON repair. |
-| **SANKALP — 3D Retrieval & AI Generation Platform** | `Next.js` `React` `Three.js` `FastAPI` `Shape-E` `Docker` | Intelligent 5-stage AI pipeline for automated retrieval, validation, generation, and visualization of 3D assets using Hugging Face Shape-E fallback. |
-| **Aegis Orbit — AI Satellite Defense Simulation** | `React` `Three.js` `TypeScript` `FastAPI` `Python` | Real-time orbital satellite defense simulation featuring AI-driven threat detection, automated evasive maneuver calculations, and interactive 3D visualization. |
+| **[AI Automation & Content Orchestration Platform](https://github.com/Fumer057/AI-AUTOMATION-JOBINGEN)** | `Python` `FastAPI` `LiteLLM` `Playwright` `Pydantic` | Multi-stage AI workflow orchestration engine coordinating planning, generation, validation, rendering, and publishing with automated failover and JSON repair. |
+| **[SANKALP — 3D Retrieval & AI Generation Platform](https://github.com/Fumer057/SANKALP)** | `Next.js` `React` `Three.js` `FastAPI` `Shape-E` `Docker` | Intelligent 5-stage AI pipeline for automated retrieval, validation, generation, and visualization of 3D assets using Hugging Face Shape-E fallback. |
+| **[Aegis Orbit — AI Satellite Defense Simulation](https://github.com/Fumer057/aegis)** | `React` `Three.js` `TypeScript` `FastAPI` `Python` | Real-time orbital satellite defense simulation featuring AI-driven threat detection, automated evasive maneuver calculations, and interactive 3D visualization. |
 
 ---
 
