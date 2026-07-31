@@ -112,7 +112,7 @@
 
 ---
 
-## GitHub Statistics
+## Live Contribution Activity & Statistics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fumer057&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -123,6 +123,12 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fumer057&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fumer057/Fumer057/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
